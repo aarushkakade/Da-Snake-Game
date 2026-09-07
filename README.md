@@ -1,13 +1,12 @@
 # Da Snake Game
 
-If you’ve got a normal brain and a decent IQ, you’ll figure it out. What do you need, a manual? Fine. Here it is.
+A snake eat apple game,from the nokia times, I remember playing this on my grandpa's phone
 
 ## What this is
 
-- A 30×30 grid,Blue snake,Red food.
-- Eat food → snake grows → score goes up.
-- Hit a wall or your own body → game over → go cry.
-- High score is saved, so at least your best run doesn’t vanish into the void.
+- A 30×30 grid,Blue snake eats red food.
+- Eat food = snake grows
+- Hit a wall or your own body → game over.
 
 ## How to “play”
 
@@ -21,8 +20,4 @@ If you’ve got a normal brain and a decent IQ, you’ll figure it out. What do 
 - `style.css` – dark theme, responsive layout, mobile controls  
 - `index.js` – movement, food, collision, scoring, the whole loop  
 
-## Why this exists
-
-Because I wanted something small I could actually finish and understand, not another half-baked “framework demo”. This is that: a tiny game that teaches you how state, timing, and rendering fit together—and makes you laugh when the snake finally stops glitching through walls.
-
-Now shuddup and play
+Now play and enjoy
